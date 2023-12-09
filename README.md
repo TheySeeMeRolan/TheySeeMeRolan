@@ -1,6 +1,6 @@
 ### Hi there I'm Rolan 👋
 
-I'm a Software Engineer passionate about building scalable and highly available distributed systems 🔨.
+I'm a Software Engineer passionate about building scalable and highly available distributed systems in the cloud 🔨.
 
 <!--
 - 🔭 I’m currently working on ...
